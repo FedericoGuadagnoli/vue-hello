@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    margin-bottom: 2rem;
+    color: red;
+}
+
+h2 {
+    color: yellow;
+}
+
+main figure {
+    width: 70%;
+    margin: 0 auto;
+}
